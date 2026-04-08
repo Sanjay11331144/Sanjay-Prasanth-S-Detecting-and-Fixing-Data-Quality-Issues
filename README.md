@@ -1,0 +1,2 @@
+# Sanjay-Prasanth-S-Detecting-and-Fixing-Data-Quality-Issues
+“An intelligent system designed to automatically identify data quality issues such as missing values, duplicates, inconsistencies, and anomalies, and provide actionable remediation strategies using rule-based validation and machine learning techniques. The system enhances data, enables continuous monitoring through feedback-driven improvements.”
